@@ -70,9 +70,9 @@ These names also collide -
 
 '**_IST_**' is used to mean:
 
-- '_Indian Stardard Time_'
-- '_Irish Stardard Time_'
-- '_Israeli Stardard Time_'
+- '_Indian Standard Time_'
+- '_Irish Standard Time_'
+- '_Israeli Standard Time_'
 
 These names also produce all-sorts of ambiguities, regarding DST-changes-
 
